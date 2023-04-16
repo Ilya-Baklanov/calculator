@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: calculator
+  annotations:
+    github.com/project-slug: Ilya-Baklanov/calculator
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Ilya-Baklanov
